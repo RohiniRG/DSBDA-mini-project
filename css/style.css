@@ -289,7 +289,10 @@ a:focus {
   flex-wrap: wrap;
   padding-top: 40px;
 }
+.img-fluid{
+  height: 500px;
 
+}
 .service_section .service_img-container .service_img-box {
   display: flex;
   justify-content: center;
@@ -671,4 +674,7 @@ a:focus {
   color: #fff;
 }
 
+/* #card {
+  height: 500;
+} */
 /* end footer section*/
